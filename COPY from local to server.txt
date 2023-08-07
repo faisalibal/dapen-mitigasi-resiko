@@ -1,0 +1,4 @@
+COPY from local to server
+ scp -r "D:\Data\My code\React\dapen-mitigasi-resiko\dapen-mitigasi-resiko\out" hrk@10.10.10.23:~/APPS/nginx/sites
+
+
